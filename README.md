@@ -1,7 +1,7 @@
 <img src="https://github.com/FreightDH/FreightDH/assets/81368535/e24de904-db70-4021-8020-0d249aebf26c" alt="header" height="">
 
 ## 💫 About Me:
-🏫 Currently studying at the third year of the BSTU "VOENMEH". <br>💻 Started learning web development in the summer of 2022. <br>🍀 Now I'm learning **React** and **Vue3**. 
+🏫 Currently studying at the third year of the BSTU "VOENMEH". <br>💻 Started learning web development in the summer of 2022. <br>🍀 Now I'm deeply learning **React**. 
 
 
 ## 💻 Tech Stack:
